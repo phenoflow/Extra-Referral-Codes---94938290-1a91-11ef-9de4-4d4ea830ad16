@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/psychiatric-extra-referral-codes---primary.py
+inputModule3:
+  class: File
+  path: python/extra-referral-codes-worker---primary.py
+inputModule4:
+  class: File
+  path: python/extra-referral-codes-psychologist---primary.py
+inputModule5:
+  class: File
+  path: python/extra-referral-codes-child---primary.py
+inputModule6:
+  class: File
+  path: python/psychotherapist-extra-referral-codes---primary.py
+inputModule7:
+  class: File
+  path: python/adolescent-extra-referral-codes---primary.py
+inputModule8:
+  class: File
+  path: python/extra-referral-codes-service---primary.py
+inputModule9:
+  class: File
+  path: python/private-extra-referral-codes---primary.py
+inputModule10:
+  class: File
+  path: python/extra-referral-codes-health---primary.py
+inputModule11:
+  class: File
+  path: python/forensic-extra-referral-codes---primary.py
+inputModule12:
+  class: File
+  path: python/extra-referral-codes-nurse---primary.py
+inputModule13:
+  class: File
+  path: python/primary-extra-referral-codes---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
